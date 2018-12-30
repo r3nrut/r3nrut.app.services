@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
 #ruby "2.2.4"
-ruby "2.1.2"
+#ruby "2.1.2"
+ruby "2.4.5"
 gem "faye-websocket"
 gem "sinatra"
 gem "puma"
